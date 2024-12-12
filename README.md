@@ -1,7 +1,7 @@
-# Homework 1 ROS2 Notes
+# Project Part 3 ROS2 Notes
 
 
-### TO INSTALL PACKAGE FOR ASSIGNMENT 
+### TO INSTALL PACKAGE 
 
 1. Set up environment variables for ROS. Make sure to replace '/home/rpi/shared' with your own shared folder location
 <pre>
